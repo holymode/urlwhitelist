@@ -496,3 +496,6 @@ thedailybeast.com
 gamespot.com
 amzn.to
 ftc.gov
+virustotal.com
+discord.com
+cdn.discordapp.com
