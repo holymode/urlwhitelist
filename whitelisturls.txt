@@ -19,7 +19,7 @@ europa.eu
 googleusercontent.com
 drive.google.com
 mozilla.org
-sites.google.com
+sites.google.com 
 youtu.be
 medium.com
 bbc.co.uk
