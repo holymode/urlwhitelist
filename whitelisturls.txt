@@ -1,7 +1,7 @@
 apple.com
-www.google.com
+google.com
 youtube.com
-www.blogger.com
+blogger.com
 docs.google.com
 microsoft.com
 support.google.com
@@ -52,7 +52,7 @@ paypal.com
 uol.com.br
 fr.wikipedia.org
 bbc.com
-www.yahoo.com
+yahoo.com
 msn.com
 cnn.com
 pt.wikipedia.org
@@ -95,7 +95,7 @@ picasa.google.com
 themeforest.net
 foxnews.com
 networkadvertising.org
-www.wix.com
+wix.com
 usatoday.com
 scribd.com
 archive.org
@@ -111,7 +111,7 @@ aol.com
 terra.com.br
 files.wordpress.com
 dan.com
-www.gov.uk
+gov.uk
 dailymail.co.uk
 mediafire.com
 picasaweb.google.com
@@ -154,7 +154,6 @@ tools.google.com
 goo.gl
 steampowered.com
 sedo.com
-bit.ly
 news.yahoo.com
 rt.com
 un.org
@@ -259,7 +258,7 @@ ytimg.com
 vice.com
 usnews.com
 psychologytoday.com
-www.livejournal.com
+livejournal.com
 mega.nz
 alibaba.com
 ovh.co.uk
@@ -310,7 +309,6 @@ engadget.com
 ikea.com
 qq.com
 academia.edu
-bitly.com
 pbs.org
 sciencemag.org
 soundcloud.com
@@ -322,7 +320,7 @@ tripadvisor.com
 mystrikingly.com
 surveymonkey.com
 oracle.com
-www.over-blog.com
+over-blog.com
 nbcnews.com
 yadi.sk
 wiley.com
@@ -333,7 +331,7 @@ standard.co.uk
 e-recht24.de
 mashable.com
 berkeley.edu
-www.weebly.com
+weebly.com
 indiatimes.com
 iubenda.com
 goodreads.com
@@ -369,7 +367,7 @@ godaddy.com
 bp1.blogger.com
 bp0.blogger.com
 sendspace.com
-www.wikipedia.org
+wikipedia.org
 fifa.com
 theverge.com
 sciencedaily.com
@@ -391,7 +389,7 @@ entrepreneur.com
 ucla.edu
 tmz.com
 skype.com
-www.canalblog.com
+canalblog.com
 dreniq.com
 softonic.com
 asahi.com
